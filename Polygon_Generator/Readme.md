@@ -15,7 +15,6 @@ The objective of this project is to provide a lightweight and modular C++ progra
 ---
 
 ## Repository Contents
-.
 ├── CMakeLists.txt # CMake build configuration
 ├── polygon_generator.cpp # Main C++ source file
 └── README.md # Project documentation
